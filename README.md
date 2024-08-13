@@ -2,7 +2,6 @@
 
 [![Python Version](https://img.shields.io/badge/python-3.8%2B-blue.svg)](https://www.python.org/downloads/)
 
-![GIF demonstrating the Streamlit process, Excel, and JSON output](https://raw.githubusercontent.com/alanslzrr/PDF-Extraction-to-Structured-Data/main/images/PDFtoStructuredData.gif)
 
 ## Introduction
 The PDF Certificate Processor is a sophisticated application designed to extract, process, and store tabular data from PDF certificates. It provides a user-friendly interface for uploading PDFs, processes the content to extract relevant information, and offers the extracted data in both Excel and JSON formats.
@@ -13,6 +12,9 @@ The PDF Certificate Processor is a sophisticated application designed to extract
 3. **Tabula Visualizer (AreaExtractionTableTabula.py)**: A tool for visualizing table areas in PDFs to aid in extraction coordinate determination.
 
 ## Detailed Process Flow
+
+![GIF demonstrating the Streamlit process, Excel, and JSON output](https://raw.githubusercontent.com/alanslzrr/PDF-Extraction-to-Structured-Data/main/images/PDFtoStructuredData.gif)
+
 
 ### 1. Application Initialization and User Interface
 - The application is built using Streamlit, providing a web-based interface.
