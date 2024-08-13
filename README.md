@@ -1,6 +1,8 @@
 #     PDF Extraction to Structured Data
 
-![GIF demonstrating the Streamlit process, Excel, and JSON output](placeholder-for-your-gif.gif)
+[![Python Version](https://img.shields.io/badge/python-3.8%2B-blue.svg)](https://www.python.org/downloads/)
+
+![GIF demonstrating the Streamlit process, Excel, and JSON output](https://raw.githubusercontent.com/alanslzrr/PDF-Extraction-to-Structured-Data/main/images/PDFtoStructuredData.gif)
 
 ## Introduction
 The PDF Certificate Processor is a sophisticated application designed to extract, process, and store tabular data from PDF certificates. It provides a user-friendly interface for uploading PDFs, processes the content to extract relevant information, and offers the extracted data in both Excel and JSON formats.
