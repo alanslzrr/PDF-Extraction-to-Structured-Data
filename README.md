@@ -1,4 +1,4 @@
-# PDF Certificate Processor: Complete Documentation
+#     PDF Extraction to Structured Data
 
 ![GIF demonstrating the Streamlit process, Excel, and JSON output](placeholder-for-your-gif.gif)
 
