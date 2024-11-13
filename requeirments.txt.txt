@@ -1,0 +1,12 @@
+opencv-contrib-python-headless
+pytesseract
+openpyxl
+camelot-py[cv]
+PyPDF2==1.26.0
+PyMuPDF==1.21.1
+pandas
+numpy
+altair==5.3.0
+excalibur-py==0.4.3
+flask
+pyopengl
